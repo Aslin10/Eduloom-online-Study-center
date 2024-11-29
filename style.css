@@ -1,0 +1,31 @@
+.navbar-brand img{
+    width: 50px;
+    height: auto;
+    border-radius: 50%;
+}
+.full-width{
+    width: 100%;
+    height:auto;
+}
+.feature_holder img{
+    width:60px;
+    height:auto;
+    border-radius: 50%;
+}
+.subscribe{
+    background-image: url(subscribe.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.address-holder img{
+    width:50px;
+    height: auto;
+    border-radius: 50%;
+}
+.copy ,.mobile_padding {
+    background-color: black;
+}
+.blur-filter{
+    backdrop-filter: blur(8px);
+    background-color:rgb(255 255 255/ 30%)
+}
